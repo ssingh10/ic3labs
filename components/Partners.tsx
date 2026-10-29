@@ -17,9 +17,11 @@ export function Partners() {
                 <p className="role">{p.title}</p>
               </div>
               {p.bio ? (
-                <p className="bio" style={{ color: p.bioColor }}>
-                  {p.bio}
-                </p>
+                <div className="bio" style={{ color: p.bioColor }}>
+                  {p.bio.split("\n\n").map((paragraph) => (
+                    <p key={paragraph.slice(0, 40)}>{paragraph}</p>
+                  ))}
+                </div>
               ) : null}
               <a href={`mailto:${p.email}`}>{p.email}</a>
             </Reveal>

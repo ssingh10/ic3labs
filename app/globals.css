@@ -572,10 +572,17 @@ a:hover {
 }
 
 .partner .bio {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
   margin: 0;
   font-size: 15px;
   line-height: 1.7;
   text-wrap: pretty;
+}
+
+.partner .bio p {
+  margin: 0;
 }
 
 .partner a {
