@@ -686,15 +686,6 @@ a:hover {
   color: var(--muted);
 }
 
-.legal-draft {
-  margin: 0;
-  padding: 14px 18px;
-  border: 1px solid var(--accent);
-  color: var(--accent);
-  font-size: 13px;
-  line-height: 1.6;
-}
-
 .legal-lede {
   margin: 0;
   font-family: var(--font-newsreader), serif;

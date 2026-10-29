@@ -26,7 +26,7 @@ export const PARTNERS = [
     name: "Ajoy Ganguly",
     title: "Co-Founder & Operations Evangelist, IC3 Labs",
     bioColor: "#8A847A",
-    bio: "[Bio to come — 2–3 sentences on background and what draws him to consumer technology.]",
+    bio: "",
   },
   {
     initials: "SS",
@@ -34,7 +34,7 @@ export const PARTNERS = [
     name: "Shyam Singh",
     title: "Co-Founder & Tech Evangelist, IC3 Labs",
     bioColor: "#8A847A",
-    bio: "[Bio to come — 2–3 sentences on background and what draws him to consumer technology.]",
+    bio: "",
   },
 ] as const;
 

@@ -15,7 +15,6 @@ export default function PrivacyPage() {
           <p className="kicker">{SITE.legalName}</p>
           <h1>Website Privacy Policy</h1>
           <p className="legal-meta">Effective Date: October 26, 2026</p>
-          <p className="legal-draft">Draft for legal review. Bracketed items must be confirmed before publishing.</p>
         </div>
 
         <div className="stack" style={{ gap: 20 }}>
@@ -87,7 +86,7 @@ export default function PrivacyPage() {
             <h2>5. How long we keep it</h2>
             <p>
               We keep email correspondence for as long as needed to respond and follow up, then delete it when it is no
-              longer useful. Server logs are kept for [30] days and then deleted automatically.
+              longer useful. Server logs are kept for 30 days and then deleted automatically.
             </p>
           </section>
 

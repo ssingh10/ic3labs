@@ -16,9 +16,11 @@ export function Partners() {
                 <h3>{p.name}</h3>
                 <p className="role">{p.title}</p>
               </div>
-              <p className="bio" style={{ color: p.bioColor }}>
-                {p.bio}
-              </p>
+              {p.bio ? (
+                <p className="bio" style={{ color: p.bioColor }}>
+                  {p.bio}
+                </p>
+              ) : null}
               <a href={`mailto:${p.email}`}>{p.email}</a>
             </Reveal>
           ))}
