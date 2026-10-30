@@ -25,8 +25,8 @@ export const PARTNERS = [
     email: "aj@ic3labs.com",
     name: "Ajoy Ganguly",
     title: "Co-Founder & Operations Evangelist, IC3 Labs",
-    bioColor: "#8A847A",
-    bio: "",
+    bioColor: "#3A3733",
+    bio: "A seasoned technology and business leader with over two decades of experience driving complex enterprise programs, customer success, and digital transformation across global organizations. With an MBA and a background in technology management, he co-founded IC3 Labs with a simple belief: great ideas become meaningful products through thoughtful execution, collaboration, and an unwavering focus on delivering real value to people.",
   },
   {
     initials: "SS",
