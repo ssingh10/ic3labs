@@ -34,7 +34,7 @@ export const PARTNERS = [
     name: "Shyam Singh",
     title: "Co-Founder & Tech Evangelist, IC3 Labs",
     bioColor: "#3A3733",
-    bio: "Shyam Singh believes the best technology doesn't just push boundaries—it makes everyday life simpler, smarter, and more meaningful.\n\nWith over three decades of experience building foundational products at leading FAANG companies and innovative startups, Shyam brings a rare blend of deep technical expertise, product intuition, and a human-centered perspective. He co-founded IC3 Labs with a vision to create consumer technology that feels intuitive, personal, and effortlessly delightful.\n\nHis curiosity about the world began early. As a child, he was so eager to stay informed that he would patiently wait at a neighbor's doorstep on weekends for a chance to read their newspapers. That same insatiable curiosity continues to shape how he explores emerging technologies, challenges conventional thinking, and imagines what's next.\n\nAt IC3 Labs, Shyam is passionate about bridging the gap between what's technologically possible and what genuinely matters to people—turning complex innovation into experiences that feel remarkably simple.",
+    bio: "A technologist with over three decades building foundational products at leading FAANG companies and startups. He co-founded IC3 Labs to turn complex innovation into consumer technology that feels intuitive and personal — making everyday life simpler, smarter, and more meaningful.",
   },
 ] as const;
 
