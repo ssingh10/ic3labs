@@ -34,7 +34,7 @@ export const PARTNERS = [
     name: "Shyam Singh",
     title: "Co-Founder & Tech Evangelist, IC3 Labs",
     bioColor: "#3A3733",
-    bio: "An IIT Kanpur graduate in computer science and finite mathematics, with over three decades building foundational products at leading FAANG companies and startups. He co-founded IC3 Labs to turn complex innovation into consumer technology that feels intuitive and personal — making everyday life simpler, smarter, and more meaningful.",
+    bio: "An IIT Kanpur graduate in computer science and finite mathematics, with over two decades building foundational products at leading FAANG companies and startups. He co-founded IC3 Labs to turn complex innovation into consumer technology that feels intuitive and personal — making everyday life simpler, smarter, and more meaningful.",
   },
 ] as const;
 
